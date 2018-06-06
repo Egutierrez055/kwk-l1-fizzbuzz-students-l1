@@ -16,3 +16,8 @@ def fizzbuzz(int)
 end
   
 fizzbuzz(75)  
+
+
+&&
+||
+!
